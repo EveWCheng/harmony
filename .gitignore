@@ -90,7 +90,6 @@ ipython_config.py
 #   having no cross-platform support, pipenv may install dependencies that don't work, or not
 #   install all needed dependencies.
 Pipfile.lock
-Pipfile
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
@@ -129,4 +128,11 @@ dmypy.json
 .pyre/
 .idea/
 
+#EveAdd
 src/log.txt
+Pipfile
+src/harmony_test.py
+src/mhc_data/mhc_all_metadata.json
+src/mhc_data/mhc_embeddings.npy
+src/mhc_data/mhc_questions.json
+src/sim_with_polarity.txt
